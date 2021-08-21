@@ -4,10 +4,10 @@
 -     I'm a Mechatronics student on level 2
 - 💞️ I’m looking to collaborate on Embedded Systems
 - 📫 How to reach me :
-email: eng.a.naeim@gmail.com
-WhatsApp: +201065008462
-Linkedin: https://www.linkedin.com/in/ahmed-naeim-6585b3188/
-Facebook: https://www.facebook.com/ahmed.naeem.790693
+- email: eng.a.naeim@gmail.com
+- WhatsApp: +201065008462
+- Linkedin: https://www.linkedin.com/in/ahmed-naeim-6585b3188/
+- Facebook: https://www.facebook.com/ahmed.naeem.790693
 
 <!---
 Ahmed-Naeim/Ahmed-Naeim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
