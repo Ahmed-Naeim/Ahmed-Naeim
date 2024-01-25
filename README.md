@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @Ahmed-Naeim
 - 👀 I’m interested in Embedded Systems specially Automotive Industry
-- 🌱 I’m currently learning Ardino , C for Embedded 
 -     I'm a Senior Mechatronics Engineering Undergraduate Student
--     Automotive Trainee, Siemens EDA
--     Advanced Embedded Systems Diploma, Kernel Masters
--     Embedded Systems Mentor at Engineers Empowerment Program (EEP), IEEE KSB
--     Embedded SW Advanced Bootcamp at NilePreneurs, Nile University
--     Embedded C 120-hour Course, National Telecommunications Institute “NTI”
+-     Automotive Trainee - Siemens EDA
+-     Automotive Communication Protocols (CAN, LIN), AUTOSAR, and MISRA C - Kernel Masters
+-     Automotive, Bootloader, and ARM Cortex M3/M4 Architecture - Kernel Masters
+-     Advanced Embedded Systems Diploma - Kernel Masters
+-     Embedded Systems Mentor - Engineers Empowerment Program (EEP), IEEE KSB
+-     Embedded SW Advanced Bootcamp - NilePreneurs, Nile University
+-     Embedded C 120-hour Course - National Telecommunications Institute “NTI”
 
 - 💞️ I’m looking to collaborate on Embedded Systems
 - 📫 How to reach me :
