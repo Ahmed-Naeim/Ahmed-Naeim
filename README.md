@@ -4,7 +4,7 @@
   <a href="mailto:eng.a.naeim@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-naeim-96b633199/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-m-naeim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
