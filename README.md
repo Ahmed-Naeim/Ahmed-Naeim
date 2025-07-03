@@ -9,7 +9,7 @@
   </a>
 </p>
 
-A versatile Software Solutions Engineer with a Mechatronics foundation and hands-on expertise in Software Engineering[cite: 10]. [cite_start]As Co-Founder and Software & Control Lead at FABRL, I’ve delivered end-to-end IoT platforms and cloud-native services using C, C#, Python, Node.js (ExpressJS), and ASP .NET Core.
+A versatile Software Solutions Engineer with a Mechatronics foundation and hands-on expertise in Software Engineering. As Co-Founder and Software & Control Lead at FABRL, I’ve delivered end-to-end IoT platforms and cloud-native services using C, C#, Python, Node.js (ExpressJS), and ASP .NET Core.
 
 ---
 
