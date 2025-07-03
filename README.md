@@ -9,17 +9,24 @@
   </a>
 </p>
 
-[cite_start]A versatile Software Solutions Engineer with a Mechatronics foundation and hands-on expertise in Software Engineering. [cite: 10] [cite_start]As Co-Founder and Software & Control Lead at FABRL, I’ve delivered end-to-end IoT platforms and cloud-native services using C, C#, Python, Node.js, and ASP .NET Core. [cite: 11] [cite_start]Currently pursuing an M.Sc. in Computer Engineering & Control Systems. [cite: 12, 5]
+A versatile Software Solutions Engineer with a Mechatronics foundation and hands-on expertise in Software Engineering[cite: 10]. [cite_start]As Co-Founder and Software & Control Lead at FABRL, I’ve delivered end-to-end IoT platforms and cloud-native services using C, C#, Python, Node.js (ExpressJS), and ASP .NET Core.
+
+---
+
+### 🎓 Education
+
+* **M.Sc. in Computer Engineering & Control** - Mansoura University (Oct. 2024 – now)
+* **B.S in Mechatronics Engineering, Automation, and Industrial Robots Major** - Kafrelsheikh University (Sep. 2019 – Jun. 2024) 
 
 ---
 
 ### 🚀 What I'm Currently Doing
 
-* [cite_start]**General Manager at IPA Academy** [cite: 14][cite_start]: Spearheading multidisciplinary tracks like IT, Software Development, Data & AI [cite: 15][cite_start], recruiting elite instructor teams [cite: 16][cite_start], and securing B2B deals with major partners like MCIT, Almentor, and Udacity. [cite: 18]
-* [cite_start]**Cofounder, Software & Control Lead at FABRL**[cite: 19]:
-    * [cite_start]Leading the design of an embedded control system on an ARM-based MCU for a fully automated PCB recycling process. [cite: 20]
-    * [cite_start]Developing IoT monitoring and remote-control features using ESP8266. [cite: 21]
-    * [cite_start]🏆 **Winner of 1st Place in the Egypt Makes Competition** and secured incubation at the EBNI. [cite: 24]
+**General Manager at IPA Academy**: I spearhead multidisciplinary tracks like IT, Software Development, Data & AI [cite: 15][cite_start], recruit elite instructor teams [cite: 16][cite_start], and cultivate strategic partnerships to expand institutional impact. I have also secured B2B deals with DEPI, DECI at MCIT, the Ministry of Justice, Almentor, Udacity, NEXT Academy, and ILearn Academy.
+**Cofounder, Software & Control Lead at FABRL**:
+    * I led the design and implementation of an embedded control system on an ARM-based MCU for fully automated PCB recycling.
+    * I developed IoT monitoring and remote-control features using ESP8266, enabling real-time data collection and dashboard visualizations.
+    * 🏆 **Winner of 1st Place in the Egypt Makes Competition** and secured incubation at the EiTESAL Business Nurturing Initiative (EBNI).
 
 ---
 
@@ -27,30 +34,24 @@
 
 | Languages & Frameworks | Embedded & Robotics | Databases & APIs | Tools & Platforms |
 | :--- | :--- | :--- | :--- |
-| [cite_start]C#, ASP.NET Core [cite: 78] | [cite_start]C, Embedded C [cite: 78] | [cite_start]SQL, NoSQL [cite: 78] | [cite_start]Git, GitHub [cite: 80] |
-| [cite_start]Python [cite: 78] | [cite_start]ARM, AUTOSAR [cite: 78] | [cite_start]RESTful APIs [cite: 78] | Docker |
-| [cite_start]Node.js, ExpressJS [cite: 78] | [cite_start]Bootloader, FOTA [cite: 78] | [cite_start]GraphQL [cite: 78] | [cite_start]STM32CubeIDE, Keil [cite: 80] |
-| [cite_start]C++, JavaScript [cite: 78] | [cite_start]Robotics [cite: 78] | [cite_start]MongoDB [cite: 36] | [cite_start]MATLAB, Simulink [cite: 80] |
+| C#, ASP.NET Core | C, Embedded C | SQL, NoSQL Data Base | Git |
+| Python | ARM, AUTOSAR | API, GraphQL | STM32CubeIDE, Keil |
+| NodeJS, ExpressJS | Bootloader - FOTA | | Eclipse, Visual Studio |
+| C++, JavaScript | Robotics | | MATLAB, Simulink |
+| HTML, CSS | Microcontroller Interfacing | | SOLIDWORKS |
 
 ---
 
-### Highlighted Projects
+### 🏆 Highlighted Projects
 
-#### 🥇 Fully Automated PCBs Recycling Production Line (FABRL)
-* [cite_start]An award-winning graduation project to recycle PCBs and extract 99.98% pure Copper, gold, and silver. [cite: 24, 43, 22]
-* [cite_start]The entire production line is controlled by an ARM-based MCU and monitored remotely via an IoT dashboard using ESP8266. [cite: 44, 47]
+#### **Fully Automated PCBs Recycling Production Line (FABRL)**
+* An award-winning graduation project to recycle PCBs and extract Copper (99.98% pure), gold, and silver.
+* The entire production line is controlled by an ARM-based MCU and monitored remotely via an IoT dashboard using ESP8266.
 
-#### 🛒 E-commerce App API
-* [cite_start]Developed a robust RESTful API using Node.js, Express, and MongoDB. [cite: 36]
-* [cite_start]Features include JWT authentication, role-based access control, product/user management, shopping cart, and payment processing. [cite: 37, 38, 40]
+#### **E-commerce App API**
+* Developed a robust RESTful API using Node.js, Express, and MongoDB.
+* Features include JWT authentication, role-based access control, product/user management, a shopping cart, and payment processing.
 
-#### 펌웨어 Custom Bootloader & FOTA
-* [cite_start]Engineered a custom bootloader from scratch for an STM32 MCU (Cortex-M3). [cite: 49]
-* [cite_start]Supports secure and reliable Firmware-Over-The-Air (FOTA) updates with CRC checks and rollback safeguards. [cite: 49, 50]
-
----
-
-### 🎓 Education
-
-* [cite_start]**M.Sc. in Computer Engineering & Control** - Mansoura University (2024 – Present) [cite: 4, 5]
-* [cite_start]**B.S in Mechatronics Engineering** - Kafrelsheikh University (2019 – 2024) [cite: 7, 8]
+#### **Custom Bootloader & FOTA**
+* Engineered a custom bootloader from scratch for an STM32F103C8T6 (Cortex-M3) MCU.
+* Supports secure and reliable Firmware-Over-The-Air (FOTA) updates with CRC checks and rollback safeguards.
