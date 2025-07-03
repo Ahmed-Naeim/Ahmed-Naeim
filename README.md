@@ -34,9 +34,9 @@ A versatile Software Solutions Engineer with a Mechatronics foundation and hands
 
 | Languages & Frameworks | Embedded & Robotics | Databases & APIs | Tools & Platforms |
 | :--- | :--- | :--- | :--- |
-| C#, ASP.NET Core | C, Embedded C | SQL, NoSQL Data Base | Git |
-| Python | ARM, AUTOSAR | API, GraphQL | STM32CubeIDE, Keil |
-| NodeJS, ExpressJS | Bootloader - FOTA | | Eclipse, Visual Studio |
+| C#, ASP.NET Core | C, Embedded C | SQL Data Base | Git |
+| Python | ARM, AUTOSAR | NoSQL Data Base | STM32CubeIDE, Keil |
+| NodeJS, ExpressJS | Bootloader - FOTA | API, GraphQL | Eclipse, Visual Studio |
 | C++, JavaScript | Robotics | | MATLAB, Simulink |
 | HTML, CSS | Microcontroller Interfacing | | SOLIDWORKS |
 
