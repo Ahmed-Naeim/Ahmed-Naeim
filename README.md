@@ -12,8 +12,7 @@
   </a>
 </p>
 
-An MSc-qualified Backend Developer with expertise in JavaScript, TypeScript, and the full backend development lifecycle. Specializes in building high-performance applications with Node.js, Express.js, and NestJS, supported by strong database management skills in MongoDB. As Co-Founder and Software & Control Lead at FABRL, I have delivered end-to-end IoT platforms and embedded control systems. Experienced with containerization (Docker), microservices architecture, and CI/CD principles to ensure efficient and reliable software delivery.
-
+A results-driven Backend Engineer with an M.Sc. in Computer Engineering and a proven ability to architect, develop, and deploy high-performance, scalable applications. Expertise in the complete backend lifecycle using Node.js, Express.js, NestJS, and TypeScript. Proficient in microservices architecture, containerization with Docker, and CI/CD automation. Possesses a unique background in embedded systems, providing a deep understanding of system performance, efficiency, and hardware-software interaction.
 ---
 
 ### 🎓 Education
@@ -24,6 +23,17 @@ An MSc-qualified Backend Developer with expertise in JavaScript, TypeScript, and
 ---
 
 ### 🚀 What I'm Currently Doing
+
+
+* **AN Software Solutions| Backend Developer**:
+  *	Architected and developed scalable RESTful APIs using Node.js and NestJS/Express.js for multiple e-commerce client projects, serving thousands of daily active users.
+  *	Engineered secure and reliable payment solutions, integrating with local Egyptian gateways (Paymob, Fawry) and international providers (Stripe).
+  *	Built comprehensive Order Management Systems (OMS) with real-time tracking and inventory synchronization, reducing clients' manual order processing by over 40%.
+  *	Optimized application performance by implementing Redis caching and refining complex MongoDB queries, reducing average API response times by 35%.
+  *	Designed and managed both NoSQL (MongoDB) and SQL (PostgreSQL) database schemas, ensuring data integrity and scalability for product, user, and order data.
+  *	Containerized applications using Docker and configured CI/CD pipelines to automate testing and deployment, leading to a 50% faster release cycle.
+  *	Authored comprehensive unit and integration tests using Jest, achieving over 90% code coverage and significantly reducing production bugs.
+  *	Developed a robust role-based access control (RBAC) system to manage permissions for different user types (e.g., customer, admin, store manager).
 
 * **Cofounder, Software & Control Lead at FABRL**:
     * Led the design and implementation of an embedded control system on an ARM-based MCU for fully automated PCB recycling.
