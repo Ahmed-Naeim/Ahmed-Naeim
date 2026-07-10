@@ -1,9 +1,9 @@
 # Hi 👋, I'm Ahmed Naeim
 
-### Co-Founder & CTO @ Origin Logic | NestJS · PostgreSQL · Linux Infrastructure | Building Enterprise Systems That Don't Break 📍 Cairo, Egypt 
+### Senior Backend Engineer @ Origin Logic | NestJS · PostgreSQL · Linux Infrastructure | Multi-Tenant Enterprise Systems 📍 Cairo, Egypt
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eng.a.naeim@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-naeim)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-m-naeim/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ahmed-Naeim)
 [![Komarev](https://komarev.com/ghpvc/?username=Ahmed-Naeim&label=&color=0e75b6&style=flat)](#)
 
@@ -11,11 +11,9 @@
 
 ### 🧠 Who I Am
 
-I'm a **Co-Founder & CTO** who thinks in **processes, failure modes, and data integrity** before features. With a background in **Mechatronics Engineering**, I bring a systems-level perspective to software — designing infrastructure that is observable, recoverable, and built for real operational pressure.
+I'm a **Senior Backend Engineer** with a systems-level approach to software, informed by a background in **Mechatronics Engineering**. I design infrastructure that is observable, recoverable, and built to hold up under real operational pressure — thinking through failure modes and data integrity before feature work.
 
-Currently architecting **Nizam ERP**, a multi-tenant enterprise platform for Gulf construction companies — where correctness isn't optional.
-
-> *"I don't just write code. I architect systems that survive production."*
+I co-founded Origin Logic, where I've led backend architecture hands-on since day one, currently building **Nizam ERP**, a multi-tenant enterprise platform for Gulf construction companies — where correctness isn't optional.
 
 ---
 
@@ -78,7 +76,7 @@ Currently architecting **Nizam ERP**, a multi-tenant enterprise platform for Gul
 *NestJS · TypeORM · PostgreSQL · Docker · Nx Monorepo · Linux · JWT · Next.js*
 
 - **Database-per-Tenant** isolation — each enterprise client runs on a fully isolated PostgreSQL instance
-- **Zero-error financial data** via Row-Level Security, PostgreSQL triggers & Transactional Outbox pattern
+- Data integrity via Row-Level Security, PostgreSQL triggers & the **Transactional Outbox** pattern
 - **GIN + trigram indexes** for full-text & fuzzy search across large datasets
 - SystemD process orchestration with self-healing restart policies → **zero unplanned downtime**
 
@@ -87,19 +85,27 @@ Currently architecting **Nizam ERP**, a multi-tenant enterprise platform for Gul
 #### 🛒 Rocket Mart — Multi-Vendor Q-Commerce & Logistics Platform
 *NestJS · TypeScript · PostgreSQL · Prisma · Redis · Docker · Cloudflare R2 · Google Maps API · Paymob*
 
-- **Adapter Pattern** to decouple payments & logistics — swap providers without breaking contracts
-- **PostGIS geospatial queries** for 'Nearest Store' achieving sub-100ms response under load
-- **Redis caching** reducing API latency by **35%**
+- **Adapter Pattern** decoupling payments & logistics — swap providers without breaking contracts
+- **PostGIS geospatial queries** for "nearest store" achieving sub-100ms response under load
+- **Redis caching** cutting API latency by **35%**
 - ACID-compliant transactions guaranteeing integrity during high-concurrency order processing
+
+---
+
+#### 🔐 Tablio — No-Code Multi-Tenant SaaS Platform (personal R&D)
+*PostgreSQL (Row-Level Security) · NestJS · TypeScript · multi-tenant auth*
+
+- Tenant isolation enforced at the database layer via **Row-Level Security**, with application roles that cannot bypass it — verified by a cross-tenant isolation test suite against the live database
+- Two-plane authentication with hashed, rotating tokens, reuse detection, and enumeration-safe rate limiting — **~270 automated tests**, safe-by-default throughout
 
 ---
 
 ### 🎓 Education
 
-🎓 **M.Sc., Computer Engineering & Systems** — Mansoura University *(2024 – Present)*  
+🎓 **M.Sc., Computer Engineering & Systems** — Mansoura University *(2024 – Present)*
 GPA: 3.8/4.0 | Focus: Distributed Systems, Advanced Operating Systems
 
-🎓 **B.S., Mechatronics Engineering** — Kafrelsheikh University *(2019 – 2024)*  
+🎓 **B.S., Mechatronics Engineering** — Kafrelsheikh University *(2019 – 2024)*
 GPA: 3.3/4.0 | Major: Automation & Industrial Robotics
 
 ---
@@ -116,10 +122,10 @@ GPA: 3.3/4.0 | Major: Automation & Industrial Robotics
 
 ### 💬 Engineering Philosophy
 
-🏗️ **Infrastructure-First** — observable, recoverable, built for operational pressure  
-🔒 **Data integrity before features** — correctness is non-negotiable  
-⚡ **Ship fast, but engineer for failure** — think in processes and failure modes  
-🧠 **Systems thinking** — Mechatronics background = hardware × software mindset
+🏗️ **Infrastructure-first** — observable, recoverable, built for operational pressure
+🔒 **Data integrity before features** — correctness is non-negotiable
+⚡ **Ship deliberately** — think in processes and failure modes before scaling up
+🧠 **Systems thinking** — a Mechatronics background means a hardware × software mindset
 
 ---
 
@@ -134,10 +140,10 @@ GPA: 3.3/4.0 | Major: Automation & Industrial Robotics
 
 ### 📬 Get in Touch
 
-📧 Email: [eng.a.naeim@gmail.com](mailto:eng.a.naeim@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/ahmed-naeim](https://www.linkedin.com/in/ahmed-naeim)  
-📍 Cairo, Egypt (GMT+2) | Open to Remote (EST / CET)
+📧 Email: [eng.a.naeim@gmail.com](mailto:eng.a.naeim@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/ahmed-m-naeim](https://www.linkedin.com/in/ahmed-m-naeim/)
+📍 Cairo, Egypt (GMT+2) | Open to Remote (EST / CET) & Gulf Relocation
 
 ---
 
-*Co-building the future of enterprise software in the Arab world — open to collaboration, consulting, or senior engineering roles.*
+*Open to Senior Backend Engineer opportunities — Gulf relocation, remote EU/US, or Egypt.*
