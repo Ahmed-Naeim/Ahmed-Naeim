@@ -183,7 +183,7 @@ A reference architecture exploring:
 Mansoura University · Distributed Systems focus · 2024–Present
 
 🎓 **B.Sc. — Mechatronics Engineering**  
-Kafrelsheikh University · Automation & Industrial Robotics · 2019–2024
+Kafrelsheikh University · Automation & Industrial Robotics
 
 My background spans embedded systems, industrial automation, backend engineering, and technical leadership. I have also served in **technical training leadership and General Manager roles**, connecting engineering work with organizational goals.
 
