@@ -1,149 +1,204 @@
-# Hi 👋, I'm Ahmed Naeim
+<div align="center">
 
-### Senior Backend Engineer @ Origin Logic | NestJS · PostgreSQL · Linux Infrastructure | Multi-Tenant Enterprise Systems 📍 Cairo, Egypt
+# Ahmed Naeim
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eng.a.naeim@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-m-naeim/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ahmed-Naeim)
-[![Komarev](https://komarev.com/ghpvc/?username=Ahmed-Naeim&label=&color=0e75b6&style=flat)](#)
+### CTO & Co-Founder @ [Origin Logic](https://www.originlogic.online)
 
----
+**Backend & Systems Architect · Enterprise Software · Distributed Systems**
 
-### 🧠 Who I Am
+*Building reliable systems where data integrity, maintainability, and operational resilience matter.*
 
-I'm a **Senior Backend Engineer** with a systems-level approach to software, informed by a background in **Mechatronics Engineering**. I design infrastructure that is observable, recoverable, and built to hold up under real operational pressure — thinking through failure modes and data integrity before feature work.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0B1220?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ahmednaeim.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-m-naeim/)
+[![Origin Logic](https://img.shields.io/badge/Origin%20Logic-Company-0C7C86?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.originlogic.online)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.a.naeim@gmail.com)
 
-I co-founded Origin Logic, where I've led backend architecture hands-on since day one, currently building **Nizam ERP**, a multi-tenant enterprise platform for Gulf construction companies — where correctness isn't optional.
+**Cairo, Egypt** · Open to selected remote engineering, tech leadership & consulting opportunities
 
----
-
-### 🔧 Backend & Infrastructure
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)](https://nestjs.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat)](https://nextjs.org/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat)](https://graphql.org/)
-[![gRPC](https://img.shields.io/badge/gRPC-6DB33F?logo=grpc&logoColor=white&style=flat)](#)
-[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)](https://www.docker.com/)
-[![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=flat)](https://nginx.org/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)](https://aws.amazon.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)](https://kernel.org/)
-[![SystemD](https://img.shields.io/badge/SystemD-000000?style=flat)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)](#)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat)](#)
+</div>
 
 ---
 
-### 🗄️ Data & Storage
+## About Me
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)](https://www.postgresql.org/)
-[![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat)](https://redis.io/)
-[![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=flat)](#)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat)](https://www.prisma.io/)
+I'm a hands-on **Backend & Systems Architect** and **CTO & Co-Founder of Origin Logic**, where I work across enterprise software architecture, backend implementation, technical delivery, and infrastructure reliability.
+
+My focus is building systems that remain **correct, secure, observable, and maintainable** as business requirements evolve. I enjoy problems involving multi-tenancy, transactional consistency, distributed workflows, and database design.
+
+I'm also pursuing an **M.Sc. in Computer Engineering & Systems** at **Mansoura University**, focusing on **Distributed Systems**.
+
+> **My engineering principle:** Complexity must earn its place. I prefer explicit boundaries, verified invariants, and technology choices grounded in real constraints.
+
+## Areas of Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Backend & Architecture
+
+- Node.js · NestJS · TypeScript
+- Modular monoliths & service boundaries
+- REST APIs · asynchronous workflows
+- Multi-tenant SaaS & enterprise systems
+- Authorization & tenant isolation
+
+</td>
+<td width="50%" valign="top">
+
+### 🗃️ Data & Distributed Systems
+
+- PostgreSQL · Redis · MongoDB
+- Relational modeling & query optimization
+- Transactions, idempotency & outbox patterns
+- Queues, caching & eventual consistency
+- Data integrity & failure-mode analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Infrastructure & Reliability
+
+- Linux · Docker · NGINX
+- AWS infrastructure fundamentals
+- CI/CD & release workflows
+- Monitoring, backups & recovery
+- Deployment and operational safety
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 Technical Leadership
+
+- Architecture decisions & trade-offs
+- Requirements → engineering delivery
+- Code reviews & engineering standards
+- Cross-functional collaboration
+- Connecting technical and business goals
+
+</td>
+</tr>
+</table>
+
+## Core Toolkit
+
+**Backend & application**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Data & persistence**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Infrastructure & delivery**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## Selected Engineering Work
+
+### 01 / Nizam ERP — Enterprise Systems Architecture
+
+**Construction ERP · Backend architecture · Data consistency**
+
+Working on enterprise software architecture and backend engineering for operational and financial workflows.
+
+- Modular domain boundaries and maintainable backend services
+- Tenant-aware access control and data isolation design
+- Transactional integrity and asynchronous processing patterns
+- PostgreSQL modeling, reporting, and query optimization
+- Deployment and operational reliability considerations
+
+*Public overview only. Client-specific architecture, screenshots, and operational metrics are intentionally excluded.*
+
+### 02 / Tablio — Configurable Multi-Tenant SaaS
+
+**Product R&D · PostgreSQL RLS · Authentication boundaries**
+
+An evolving platform exploring configurable business applications and secure tenant-aware experiences.
+
+- Database-level tenant isolation concepts
+- Authentication, authorization, and session lifecycle design
+- Structured backend architecture and automated validation
+
+**Status:** In development · [Tablio website](https://www.tablio.live/en)
+
+### 03 / Applied Engineering Across Business Domains
+
+**Commerce · Logistics · Learning Management · Operational Software**
+
+I've contributed to systems involving APIs, integration boundaries, relational databases, asynchronous jobs, and deployment workflows.
+
+Selected public descriptions are intentionally high-level to respect client confidentiality and proprietary implementation details.
 
 ---
 
-### 🏗️ Architecture & Design Patterns
+## Engineering Publication
 
-[![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0A0A0A?style=flat)](#)
-[![Microservices](https://img.shields.io/badge/Microservices-3572A5?style=flat)](#)
-[![Event-Driven](https://img.shields.io/badge/Event--Driven-FF6B6B?style=flat)](#)
-[![Transactional Outbox](https://img.shields.io/badge/Transactional%20Outbox-2c3e50?style=flat)](#)
-[![Row-Level Security](https://img.shields.io/badge/Row--Level%20Security-336791?style=flat)](#)
-[![DB-per-Tenant](https://img.shields.io/badge/DB--per--Tenant-4169E1?style=flat)](#)
-[![Adapter Pattern](https://img.shields.io/badge/Adapter%20Pattern-764ABC?style=flat)](#)
-[![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-0e75b6?style=flat)](#)
+<table>
+<tr>
+<td valign="top">
 
----
+### Designing Secure Multi-Tenant SaaS Systems
 
-### 💡 Languages
+**Independent Engineering Design Study · NestJS & PostgreSQL**
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)](#)
-[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](#)
+A reference architecture exploring:
 
----
+- Validated tenant context and authorization boundaries
+- PostgreSQL Row-Level Security and role considerations
+- Transactional integrity and the outbox pattern
+- Shared-database versus database-per-tenant trade-offs
+- Failure modes, security, and validation strategies
 
-### 🚀 Featured Projects
+[**Read the architecture study →**](https://www.ahmednaeim.online/publications/multi-tenant-saas-architecture.pdf)
 
-#### 🏢 Nizam ERP — Multi-Tenant Enterprise Platform
-*NestJS · TypeORM · PostgreSQL · Docker · Nx Monorepo · Linux · JWT · Next.js*
+<sub>Illustrative reference architecture — not a client implementation or production benchmark. The link becomes available when the updated portfolio is deployed.</sub>
 
-- **Database-per-Tenant** isolation — each enterprise client runs on a fully isolated PostgreSQL instance
-- Data integrity via Row-Level Security, PostgreSQL triggers & the **Transactional Outbox** pattern
-- **GIN + trigram indexes** for full-text & fuzzy search across large datasets
-- SystemD process orchestration with self-healing restart policies → **zero unplanned downtime**
+</td>
+</tr>
+</table>
 
----
+## Engineering Principles
 
-#### 🛒 Rocket Mart — Multi-Vendor Q-Commerce & Logistics Platform
-*NestJS · TypeScript · PostgreSQL · Prisma · Redis · Docker · Cloudflare R2 · Google Maps API · Paymob*
+| Principle | How I apply it |
+| :--- | :--- |
+| **Correctness first** | Protect invariants, consistency, and access boundaries before optimizing throughput. |
+| **Prefer explicit trade-offs** | Evaluate complexity, team capacity, operations, and failure modes before choosing an architecture. |
+| **Design for operation** | Deployment, observability, backups, and recovery are part of system design. |
+| **Keep systems evolvable** | Clear module boundaries and disciplined interfaces make change safer. |
 
-- **Adapter Pattern** decoupling payments & logistics — swap providers without breaking contracts
-- **PostGIS geospatial queries** for "nearest store" achieving sub-100ms response under load
-- **Redis caching** cutting API latency by **35%**
-- ACID-compliant transactions guaranteeing integrity during high-concurrency order processing
+## Background
 
----
+🎓 **M.Sc. Candidate — Computer Engineering & Systems**  
+Mansoura University · Distributed Systems focus · 2024–Present
 
-#### 🔐 Tablio — No-Code Multi-Tenant SaaS Platform (personal R&D)
-*PostgreSQL (Row-Level Security) · NestJS · TypeScript · multi-tenant auth*
+🎓 **B.Sc. — Mechatronics Engineering**  
+Kafrelsheikh University · Automation & Industrial Robotics · 2019–2024
 
-- Tenant isolation enforced at the database layer via **Row-Level Security**, with application roles that cannot bypass it — verified by a cross-tenant isolation test suite against the live database
-- Two-plane authentication with hashed, rotating tokens, reuse detection, and enumeration-safe rate limiting — **~270 automated tests**, safe-by-default throughout
+My background spans embedded systems, industrial automation, backend engineering, and technical leadership. I have also served in **technical training leadership and General Manager roles**, connecting engineering work with organizational goals.
 
 ---
 
-### 🎓 Education
+<div align="center">
 
-🎓 **M.Sc., Computer Engineering & Systems** — Mansoura University *(2024 – Present)*
-GPA: 3.8/4.0 | Focus: Distributed Systems, Advanced Operating Systems
+### Let's Build Something Reliable
 
-🎓 **B.S., Mechatronics Engineering** — Kafrelsheikh University *(2019 – 2024)*
-GPA: 3.3/4.0 | Major: Automation & Industrial Robotics
+Available for selected **backend architecture reviews**, **technical consulting**, **engineering collaborations**, and **Senior Engineering / Tech Lead / Systems Architect opportunities**.
 
----
+For larger enterprise software engagements, I collaborate with my engineering team at **[Origin Logic](https://www.originlogic.online)**.
 
-### 🧰 My Go-To Stack
+[**Portfolio**](https://www.ahmednaeim.online) · [**LinkedIn**](https://www.linkedin.com/in/ahmed-m-naeim/) · [**Email**](mailto:eng.a.naeim@gmail.com)
 
-- 🐘 **NestJS** + TypeORM + PostgreSQL + Redis
-- 🐳 **Docker** + NGINX + SystemD on Linux EC2
-- ☁️ **AWS** (EC2, VPC, S3, RDS, IAM)
-- 🔁 **CI/CD** Pipelines + Nx Monorepo
-- 📡 **WebSockets** + gRPC + REST (OpenAPI/Swagger)
+<sub>Designed to communicate engineering decisions, not just a list of technologies.</sub>
 
----
-
-### 💬 Engineering Philosophy
-
-🏗️ **Infrastructure-first** — observable, recoverable, built for operational pressure
-🔒 **Data integrity before features** — correctness is non-negotiable
-⚡ **Ship deliberately** — think in processes and failure modes before scaling up
-🧠 **Systems thinking** — a Mechatronics background means a hardware × software mindset
-
----
-
-### 📚 Books That Shaped My Thinking
-
-- *Designing Data-Intensive Applications* – Martin Kleppmann
-- *Clean Architecture* – Robert C. Martin
-- *Building Microservices* – Sam Newman
-- *The Linux Command Line* – William Shotts
-
----
-
-### 📬 Get in Touch
-
-📧 Email: [eng.a.naeim@gmail.com](mailto:eng.a.naeim@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/ahmed-m-naeim](https://www.linkedin.com/in/ahmed-m-naeim/)
-📍 Cairo, Egypt (GMT+2) | Open to Remote (EST / CET) & Gulf Relocation
-
----
-
-*Open to Senior Backend Engineer opportunities — Gulf relocation, remote EU/US, or Egypt.*
+</div>
